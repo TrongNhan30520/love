@@ -6,6 +6,8 @@ import img3 from "./3.jpg";
 import img4 from "./4.jpg";
 import img5 from "./5.jpg";
 import img6 from "./6.jpg";
+import img7 from "./7.jpg";
+import img8 from "./8.jpg";
 
 const index = () => {
   const html = `
@@ -110,6 +112,7 @@ const index = () => {
     }
     
     #music-container {
+      display: none;
       position: absolute;
       top: 0;
       left: 0;
@@ -231,6 +234,14 @@ const index = () => {
           />
           <img
             src=${img6}
+            alt=""
+          />
+          <img
+            src=${img7}
+            alt=""
+          />
+          <img
+            src=${img8}
             alt=""
           />
   

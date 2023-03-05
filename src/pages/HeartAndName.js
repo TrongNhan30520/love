@@ -327,14 +327,14 @@ const HeartAndName = () => {
       <div class="center-text",
       style="background-color:rgb(0, 0, 0);
             width: 100%;
-            color: rgb(225, 12, 168);
+            color: blanchedalmond;
             height:100%;
             font-size: 31px;
             display: flex;
             align-items: center;
             justify-content: center;
             margin-bottom: 5px;
-            text-align: center;">Happy birthday 🎂🍌🥳</div>
+            text-align: center;">Có thể để anh làm người yêu <br/> của em không👩‍❤️‍👨👩‍❤️‍💋‍👨🫂?</div>
      </BODY>
     </HTML>`;
   return (
